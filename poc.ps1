@@ -1,4 +1,3 @@
-
 <#  
 BADUSB COMMANDS:
     # Execute 

